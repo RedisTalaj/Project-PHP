@@ -1,0 +1,159 @@
+/* main heading */
+div.maincontainer{
+	width: 100%;
+	height: auto;
+	border: 1px solid;
+	border-style: unset;
+}
+h1.main {
+	text-align: center;
+	color: black;
+	font-family: fantasy;
+	font-size: 5vw;
+	margin: 3vw;
+	padding: 3vw;
+	border: 2px solid rgb(140, 140, 140);
+	border-left: unset;
+	border-right: unset;
+	background-color: rgb(140, 140, 140);
+  }
+  
+  /* links */
+  a {
+	color: gray;
+	text-decoration: none;
+	border: 2px solid black;
+	border-style: unset;
+	margin: 2vw;
+	padding: 2vw;
+	font-size: 2vw;
+	border-top: solid black;
+	border-bottom: solid black;
+  }
+  
+  a:hover {
+	color: lightgrey;
+  }
+  
+  a:active {
+	color: red;
+  }
+  
+  /* images */
+  img.pic1,
+  img.pic2,
+  img.pic3,
+  .pic4 {
+	width: 80%;
+	height: auto;
+  }
+  
+  /* containers */
+  div.main {
+	border: 1px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: 1vw;
+  }
+  
+  div.container{
+	border: 2px solid;
+	border-style: unset;
+	margin: 2vw;
+	padding: 2vw;
+	float: left;
+	width: 40%;
+	height: auto;
+  }
+  div.second{
+	border: 2px solid;
+	border-style: unset;
+	margin: 2vw;
+	padding: 2vw;
+	float: right;
+	width: 40%;
+	height: auto;
+  }
+  div.third {
+	border: 2px solid;
+	border-style: unset;
+	margin: 2vw;
+	padding: 2vw;
+	float: right;
+	width: 40%;
+	height: auto;
+  }
+  
+  
+  /* audio/video */
+  div.audio {
+	border: 1px solid;
+	border-style: unset;
+	margin-top: 20vw;
+	padding: 1vw;
+  }
+  h1.video{
+	border: 1px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: 1vw;
+  }
+  
+  div.main1 {
+	border: 1px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: auto;
+  }
+  
+  div.container1{
+	border: 2px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: 2vw;
+	float: left;
+	width: 40%;
+	height: auto;
+  }
+  div.second1{
+	border: 2px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: 2vw;
+	float: right;
+	width: 40%;
+	height: auto;
+  }
+  div.third1 {
+	border: 2px solid;
+	border-style: unset;
+	margin: 1vw;
+	padding: 1vw;
+	float: left;
+	width: 40%;
+	height: auto;
+  }
+  
+  h1.video {
+	font-family: fantasy;
+	font-size: 2vw;
+	margin: 30px;
+	padding: 30px;
+	border: 2px solid;
+	border-left: unset;
+	border-right: unset;
+	border-top: unset;
+  }
+
+  video.video1,
+  video.video2,
+  .video3{
+	width: 70%;
+	height: auto;
+  }
+  audio.audio1.mp3,
+  audio.audio2.mp3,
+  .audio3.mp3{
+	width: 40%;
+	height: auto;
+  }
